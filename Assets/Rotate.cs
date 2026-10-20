@@ -7,6 +7,6 @@ public class Rotate : MonoBehaviour
 
     private void Update()
     {
-        transform.Rotate(vector * speed);
+        transform.Rotate(vector * speed); 
     } 
 }
